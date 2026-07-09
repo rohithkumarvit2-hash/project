@@ -1,0 +1,6 @@
+{
+  "name": "Password Security Advisor",
+  "description": "Evaluate password strength, inspect potential security gaps, and generate strong alternative passphrases securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
